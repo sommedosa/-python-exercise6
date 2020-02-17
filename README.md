@@ -15,7 +15,7 @@
 2. What is the print out of the following program  </br>  </br>
 
 >2.1  </br>
->for num in range(10, 0, -1):  </br>  </br>
+>for num in range(10, 0, -1):  </br>  
 >>print(num)  </br>  </br>
     
     
@@ -24,36 +24,36 @@
 >while num < 11:   </br>
 >> print(num)   </br>
 >> num += 1   </br>
->> #num += 2  # only odd numbers   </br>
+>> #num += 2  # only odd numbers   </br>  </br>
 
->2.3 
->for num in range(1, 8): 
-   >>print("T" * num) 
+>2.3   </br>
+>for num in range(1, 8):   </br>
+   >>print("T" * num)   </br>  </br>
    
->2.4 
->times = 1 
->while times < 8: 
-  >>print("T" * times) 
-  >>times += 1 
+>2.4   </br>
+>times = 1   </br>
+>while times < 8:   </br>
+  >>print("T" * times)   </br>
+  >>times += 1   </br>  </br>
     
->2.5  
->last_num = 12 
->**# i loop for columns, j loop for row**
+>2.5    </br>
+>last_num = 12   </br>
+>**# i loop for columns, j loop for row**  </br>
 
->for i in range(0, 7) : 
->>for j in range(0, last_num) :
->>>print(end=" ") 
+>for i in range(0, 7) :   </br>
+>>for j in range(0, last_num) :  </br>
+>>>print(end=" ")   </br>
 
->>last_num = last_num - 2 
->>for j in range(0, i + 1): 
->>>print("T ", end="") 
+>>last_num = last_num - 2   </br>
+>>for j in range(0, i + 1):   </br>
+>>>print("T ", end="")   </br>
 
->>print() 
+>>print()   </br>  </br>
         
->2.6
->x = 2
->x = x * 2 ** 3 ** 2 * 2 +2 /2
->print(x)
+>2.6  </br>
+>x = 2  </br>
+>x = x * 2 ** 3 ** 2 * 2 +2 /2  </br>
+>print(x)  </br>  </br>
 
 
 >2.7
