@@ -12,19 +12,19 @@
 >>& &  </br>
 >>&  </br>
 
-2. What is the print out of the following program
+2. What is the print out of the following program  </br>  </br>
 
->2.1
->for num in range(10, 0, -1):
->>print(num)
+>2.1  </br>
+>for num in range(10, 0, -1):  </br>  </br>
+>>print(num)  </br>  </br>
     
     
->2.2   
->num = 1 
->while num < 11: 
->> >>print(num) 
-    num += 1 
-    #num += 2  # only odd numbers 
+>2.2     </br>
+>num = 1   </br>
+>while num < 11:   </br>
+>> print(num)   </br>
+>> num += 1   </br>
+>> #num += 2  # only odd numbers   </br>
 
 >2.3 
 >for num in range(1, 8): 
