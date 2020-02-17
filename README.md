@@ -1,16 +1,16 @@
 # -python-exercise6
 
- 1. Write a Python program to construct the following pattern, using a nested for loop.
+ 1. Write a Python program to construct the following pattern, using a nested for loop.  </br>  </br>
 
->>&
->>& &
->>& & &
->>& & & &
->>& & & & &
->>& & & &
->>& & &
->>& &
->>&
+>>&  </br>
+>>& &  </br>
+>>& & &  </br>
+>>& & & &  </br>
+>>& & & & &  </br>
+>>& & & &  </br>
+>>& & &  </br>
+>>& &  </br>
+>>&  </br>
 
 2. What is the print out of the following program
 
