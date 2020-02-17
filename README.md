@@ -3,14 +3,14 @@
  1. Write a Python program to construct the following pattern, using a nested for loop.
 
 >>&
-& &
-& & &
-& & & &
-& & & & &
-& & & &
-& & &
-& &
-&
+>>& &
+>>& & &
+>>& & & &
+>>& & & & &
+>>& & & &
+>>& & &
+>>& &
+>>&
 
 2. What is the print out of the following program
 
@@ -113,5 +113,3 @@
     
 >else :
 >>print('4')
-    
-
