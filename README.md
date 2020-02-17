@@ -56,60 +56,60 @@
 >print(x)  </br>  </br>
 
 
->2.7
+>2.7  </br>
 
->a = 19
->b = 7
->false = a > b
+>a = 19  </br>
+>b = 7  </br>
+>false = a > b  </br>
 >
->if false: 
->>print(a)
+>if false:   </br>
+>>print(a)  </br>
 
->else:
->>print(b)
+>else:  </br>
+>>print(b)  </br>  </br>
 
 
 
-3. Fill in the blank(1) to complete the following program such that it can prevent a division-by-zero
+3. Fill in the blank(1) to complete the following program such that it can prevent a division-by-zero  </br>
 
->num1 = float(input('1st number: '))
->num2 = float(input('2nd number: '))
->if ______(1)______ :
->>print(num1,'is divisible by', num2)
+>num1 = float(input('1st number: '))  </br>
+>num2 = float(input('2nd number: '))  </br>
+>if ______(1)______ :  </br>
+>>print(num1,'is divisible by', num2)  </br>  </br>
    
    
-4. Fill in the blank(1) to complete the following program 
+4. Fill in the blank(1) to complete the following program   </br>
 
->num1 = float(input('1st number: '))
->num2 = float(input('2nd number: '))
->guess = float(input('Guess the average: '))
+>num1 = float(input('1st number: '))  </br>
+>num2 = float(input('2nd number: '))  </br>
+>guess = float(input('Guess the average: '))  </br>
 
->avg = (num1+num2)/2.0
+>avg = (num1+num2)/2.0  </br>
 
->if guess < avg:
->>print('It is too low')
+>if guess < avg:  </br>
+>>print('It is too low')  </br>
 >
->_____(1)______
->>print('It is too high')
+>_____(1)______  </br>
+>>print('It is too high')  </br>
 >
->else
->>print('It is correct')
+>else  </br>
+>>print('It is correct')  </br>  </br>
    
 
-5. What gets prited
+5. What gets prited  </br>
 
->x = True
->y = False
->z = False
+>x = True  </br>
+>y = False  </br>
+>z = False  </br>
 
->if not x or y:
->>print('1')
+>if not x or y:  </br>
+>>print('1')  </br>
 >
->elif not x or not y and z:
->>print('2')
+>elif not x or not y and z:  </br>
+>>print('2')  </br>
     
->elif not x or y or not y and x:
->>print('3')
+>elif not x or y or not y and x:  </br>
+>>print('3')  </br>
     
->else :
->>print('4')
+>else :  </br>
+>>print('4')  </br>
