@@ -14,17 +14,17 @@
 
 2. What is the print out of the following program  </br>  </br>
 
->2.1  </br>
->for num in range(10, 0, -1):  </br>  
->>print(num)  </br>  </br>
+>>2.1  </br>
+>>for num in range(10, 0, -1):  </br>  
+>>>print(num)  </br>  </br>
     
     
->2.2     </br>
->num = 1   </br>
->while num < 11:   </br>
->> print(num)   </br>
->> num += 1   </br>
->> #num += 2  # only odd numbers   </br>  </br>
+>>2.2     </br>
+>>num = 1   </br>
+>>while num < 11:   </br>
+>>> print(num)   </br>
+>>> num += 1   </br>
+>>> #num += 2  # only odd numbers   </br>  </br>
 
 >2.3   </br>
 >for num in range(1, 8):   </br>
