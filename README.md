@@ -1,4 +1,4 @@
-# -python-exercise6
+# python-exercise6
 
  1. Write a Python program to construct the following pattern, using a nested for loop.  </br>  </br>
 
