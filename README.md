@@ -14,12 +14,12 @@
 
 2. What is the print out of the following program  </br>  </br>
 
->>2.1  </br>
+>2.1  </br>
 >>for num in range(10, 0, -1):  </br>  
 >>>print(num)  </br>  </br>
     
     
->>2.2     </br>
+>2.2     </br>
 >>num = 1   </br>
 >>while num < 11:   </br>
 >>> print(num)   </br>
@@ -27,46 +27,50 @@
 >>> #num += 2  # only odd numbers   </br>  </br>
 
 >2.3   </br>
->for num in range(1, 8):   </br>
-   >>print("T" * num)   </br>  </br>
+>>for num in range(1, 8):   </br>
+   >>>print("T" * num)   </br>  </br>
    
 >2.4   </br>
->times = 1   </br>
->while times < 8:   </br>
-  >>print("T" * times)   </br>
-  >>times += 1   </br>  </br>
+>>times = 1   </br>
+>>while times < 8:   </br>
+  >>>print("T" * times)   </br>
+  >>>times += 1   </br>  </br>
     
 >2.5    </br>
->last_num = 12   </br>
->**# i loop for columns, j loop for row**  </br>
+>>last_num = 12   </br>
+>>**# i loop for columns, j loop for row**  </br>
 
->for i in range(0, 7) :   </br>
->>for j in range(0, last_num) :  </br>
->>>print(end=" ")   </br>
+>>for i in range(0, 7) :   </br>
+>>>for j in range(0, last_num) :  </br>
+>>>>print(end=" ")   </br>
 
->>last_num = last_num - 2   </br>
->>for j in range(0, i + 1):   </br>
->>>print("T ", end="")   </br>
+>>>last_num = last_num - 2   </br>
+>>>for j in range(0, i + 1):   </br>
+>>>>print("T ", end="")   </br>
 
->>print()   </br>  </br>
+>>>print()   </br>  </br>
         
 >2.6  </br>
->x = 2  </br>
->x = x * 2 ** 3 ** 2 * 2 +2 /2  </br>
->print(x)  </br>  </br>
+>>x = 2  </br>
+>>x = x * 2 ** 3 ** 2 * 2 +2 /2  </br>
+>>print(x)  </br>  </br>
 
 
 >2.7  </br>
 
->a = 19  </br>
->b = 7  </br>
->false = a > b  </br>
+>>a = 19  </br>
+>>b = 7  </br>
+>>false = a > b  </br>
 >
->if false:   </br>
->>print(a)  </br>
+>>if false:   </br>
+>>>print(a)  </br>
 
->else:  </br>
->>print(b)  </br>  </br>
+>>else:  </br>
+>>>print(b)  </br>  </br>
+
+
+>2.8 </br>
+>>print("I love programming in Python!\n"*10)
 
 
 
@@ -96,7 +100,7 @@
 >>print('It is correct')  </br>  </br>
    
 
-5. What gets prited  </br>
+5. What is the print out of the following program  </br>
 
 >x = True  </br>
 >y = False  </br>
@@ -112,4 +116,27 @@
 >>print('3')  </br>
     
 >else :  </br>
->>print('4')  </br>
+>>print('4')  </br>  </br>
+
+
+6. Write a Python program to print out as the following </br>
+
+>1. I love Python!  </br>
+>2. I love Python!  </br>
+>3. I love Python!  </br>
+>4. I love Python!  </br>
+>5. I love Python!  </br>
+>6. I love Python!  </br>
+>7. I love Python!  </br>
+>8. I love Python!  </br>
+>9. I love Python!  </br>
+>10. I love Python!  </br>
+
+
+7. Write a Python program to print out as the following </br>
+
+>Exercise 3 is very easy. </br>
+>Exercise 5 is very easy. </br>
+>Exercise 7 is very easy. </br>
+>Exercise 9 is very easy. </br>
+>Exercise 11 is very easy. </br>
