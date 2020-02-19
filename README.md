@@ -1,8 +1,8 @@
 # Repetition 
 
 ## Repetition structures
-* ####Condition-controlled loops
-* ####Count-controlled loops
+* Condition-controlled loops
+* Count-controlled loops
 * Nested loops
  </br> </br>
 
